@@ -31,7 +31,7 @@ The interface blends elegant visuals with smooth navigation to create a delightf
 
 | Home Page | 
 |------------|
-| ![Home](coffee/Coffee.PNG) | 
+| ![Home](coffee/Coffee.png) | 
 
 ---
 
